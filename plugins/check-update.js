@@ -32,7 +32,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/GoodnessObilom/ozebaxd/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/GoodnessObilom/ozeba-xd/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -58,7 +58,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/GoodnessObilom/ozebaxd';
+    const githubRepo = 'https://github.com/GoodnessObilom/ozeba-xd';
 
     // Check update status
     let updateMessage = `✅ Your bot is up-to-date!`;

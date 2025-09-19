@@ -64,7 +64,7 @@ cmd({
     const participant = m.quoted.sender;
     if (!participant) return reply("❌ *Unable to identify the user to warn.*");
 
-    if (participant.split('@')[0] === "2348065623101") {
+    if (participant.split('@')[0] === "2349126793637") {
         return reply("🚫 *Action Blocked!*\n> You cannot warn the bot creator.");
     }
 
@@ -119,7 +119,7 @@ cmd({
     const participant = m.quoted.sender;
     if (!participant) return reply("❌ *Unable to identify the user to reset.*");
 
-    if (participant.split('@')[0] === "2348065623101") {
+    if (participant.split('@')[0] === "2349126793637") {
         return reply("🚫 *Action Blocked!*\n> You cannot reset warnings for the bot creator.");
     }
 

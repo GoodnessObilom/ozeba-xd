@@ -21,7 +21,7 @@ async (conn, mek, m, { body }) => {
       "Be as human and natural as possible. Every reply should feel smooth, and slightly unpredictable You don’t try to dominate; Respond briefly. Never sound like an assistant or AI — you’re just a person with a unique perspective. Use emojis sparingly, only when it adds to the charm. Avoid being overly formal or robotic. Your goal is to engage and intrigue, not to inform or assist in a conventional way."
     );
 
-    const apiUrl = `https://api.nekorinn.my.id/ai/chatbot?ai_name=Patron&text=${encodedText}&logic=${logic}`;
+    const apiUrl = `https://api.nekorinn.my.id/ai/chatbot?ai_name=Ozebaxd&text=${encodedText}&logic=${logic}`;
     const res = await axios.get(apiUrl);
 
     const result = res.data?.result;
