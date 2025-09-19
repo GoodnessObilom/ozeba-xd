@@ -26,14 +26,14 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/PATRON-MD2/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/GoodnessObilom/count.svg" alt="Visitor Count" />
 </p>
 
 ---
 
 ## ✨ Features
 
-- 🤖 WhatsApp Multi-Device Support
+- 💙 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
 - 🎵 YouTube Audio Downloader
 - 📥 Media Downloader (Instagram, TikTok, etc.)
@@ -60,12 +60,12 @@
 ### 🔗 Pairing Links
 
 > **PAIRING LINK (01)**  
-<a href='https://patron-md.vercel.app' target="_blank">
+<a href='https://ozeba-xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
 > **PAIRING LINK (02)**  
-<a href='https://patron-md.vercel.app' target="_blank">
+<a href='https://ozeba-xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -73,12 +73,12 @@
 
 ## ⚙️ Deployment Options
 
-<a href='https://patron-md.vercel.app' target="_blank">
+<a href='https://ozeba-xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/DEPLOYMENT_GUIDE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
-👉 **If you want a panel to manage your bot easily**, check out this page:  
-🔗 [https://patron-md.vercel.app/deploy](https://patron-md.vercel.app/deploy)
+👉 **If you want a panel to manage your bot easily**, purchase from here:  
+🔗 [https://t.me/goodnesstech2025](https://t.me/goodnesstech2025)
 
 <details>
 <summary><b>📲 Deploy on Termux (Manual Method)</b></summary>
@@ -87,7 +87,7 @@
 apt update && apt upgrade
 pkg install nodejs git
 git clone https://github.com/GoodnessObilom/ozeba-xd
-cd PATRON-MD2
+cd ozeba-xd
 npm install
 npm start
 ```
@@ -98,13 +98,13 @@ npm start
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@Itzpatron1">
+  <a href="https://www.youtube.com/@goodnesstech">
     <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a><br>
   <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q">
     <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a><br>
-  <a href="https://t.me/patrontechhub">
+  <a href="https://t.me/ozeba_xd">
     <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white">
   </a><br>
   <a href="https://chat.whatsapp.com/I2xPWgHLrKSJhkrUdfhKzV">
