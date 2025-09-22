@@ -14,14 +14,8 @@
   <a href="https://github.com/GoodnessObilom/ozeba-xd/stargazers/">
     <img title="Stars" src="https://img.shields.io/github/stars/GoodnessObilom/ozeba-xd?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
   </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/GoodnessObilom/ozeba-xd?color=FF007F&style=for-the-badge&logo=git&logoColor=white">
-  </a>
   <a href="https://github.com/GoodnessObilom/ozeba-xd/">
     <img title="Repo Size" src="https://img.shields.io/github/repo-size/GoodnessObilom/ozeba-xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
-  </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/graphs/commit-activity">
-    <img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white">
   </a>
 </div>
 </p>
