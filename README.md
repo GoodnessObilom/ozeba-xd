@@ -97,21 +97,12 @@ npm start
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.youtube.com/@goodnesstech">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a><br>
-  <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q">
-    <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a><br>
-  <a href="https://t.me/ozeba_xd">
+<p>
+  <a href="https://t.me/ozebaxd_support">
     <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white">
   </a><br>
-  <a href="https://chat.whatsapp.com/I2xPWgHLrKSJhkrUdfhKzV">
+  <a href="https://chat.whatsapp.com/F6gHdZDyBeAGNqGZUBUBxZ?mode=ems_copy_t">
     <img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a><br>
-  <a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg==">
-    <img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
