@@ -11,9 +11,6 @@
   <a href="https://github.com/GoodnessObilom/followers">
     <img title="Followers" src="https://img.shields.io/github/followers/GoodnessObilom?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/GoodnessObilom/ozeba-xd?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
-  </a>
   <a href="https://github.com/GoodnessObilom/ozeba-xd/">
     <img title="Repo Size" src="https://img.shields.io/github/repo-size/GoodnessObilom/ozeba-xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
   </a>
