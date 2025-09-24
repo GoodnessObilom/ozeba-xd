@@ -8,25 +8,13 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/GoodnessObioom/followers">
-    <img title="Followers" src="https://img.shields.io/github/followers/GooodnessObilom?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/stargazers/">
-    <img title="Stars" src="https://img.shields.io/github/stars/GoodnessObilom/ozeba-xd?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white">
-  </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/network/members">
-    <img title="Forks" src="https://img.shields.io/github/forks/GoodnessObilom/ozeba-xd?color=FF007F&style=for-the-badge&logo=git&logoColor=white">
+  <a href="https://github.com/GoodnessObilom/followers">
+    <img title="Followers" src="https://img.shields.io/github/followers/GoodnessObilom?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/GoodnessObilom/ozeba-xd/">
     <img title="Repo Size" src="https://img.shields.io/github/repo-size/GoodnessObilom/ozeba-xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
   </a>
-  <a href="https://github.com/GoodnessObilom/ozeba-xd/graphs/commit-activity">
-    <img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white">
-  </a>
 </div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/GoodnessObilom/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -77,7 +65,7 @@
   <img src='https://img.shields.io/badge/DEPLOYMENT_GUIDE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
-👉 **If you want a panel to manage your bot easily**, purchase from here:  
+👉 **If you want a panel or Heroku to manage your bot easily**, purchase from here:  
 🔗 [https://t.me/goodnesstech2025](https://t.me/goodnesstech2025)
 
 <details>
@@ -95,23 +83,14 @@ npm start
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 SUPPORT GROUPS
 
-<p align="center">
-  <a href="https://www.youtube.com/@goodnesstech">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a><br>
-  <a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q">
-    <img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a><br>
-  <a href="https://t.me/ozeba_xd">
+<p>
+  <a href="https://t.me/ozebaxd_support">
     <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white">
   </a><br>
-  <a href="https://chat.whatsapp.com/I2xPWgHLrKSJhkrUdfhKzV">
+  <a href="https://chat.whatsapp.com/F6gHdZDyBeAGNqGZUBUBxZ?mode=ems_copy_t">
     <img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a><br>
-  <a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg==">
-    <img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
