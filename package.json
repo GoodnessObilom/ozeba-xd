@@ -4,8 +4,8 @@
   "description": "A WhatsApp Bot Created By Goodness Tech💙",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name OZEBA-XD",
+"scripts": {
+    "start": "pm2-runtime ecosystem.config.js",
     "stop": "pm2 stop OZEBA-XD",
     "restart": "pm2 restart OZEBA-XD"
   },
