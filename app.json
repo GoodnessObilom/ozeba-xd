@@ -5,6 +5,14 @@
   "keywords": ["OZEBA-XD"],
   "success_url": "/",
   "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
@@ -146,10 +154,16 @@
   },
   "buildpacks": [
     {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "heroku/nodejs"
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
 }
