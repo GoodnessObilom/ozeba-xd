@@ -4,6 +4,7 @@
   "logo": "https://files.catbox.moe/3m1vb1.png",
   "keywords": ["OZEBA-XD"],
   "success_url": "/",
+  "repository": "https://github.com/GoodnessObilom/ozeba-xd",
   "stack": "container",
   "addons": [
     {
