@@ -5,10 +5,10 @@
   "type": "commonjs",
   "main": "index.js",
 "scripts": {
-    "start": "pm2-runtime ecosystem.config.js",
-    "stop": "pm2 stop OZEBA-XD",
-    "restart": "pm2 restart OZEBA-XD"
-  },
+    "start": "node index.js",
+    "stop": "echo 'Stopping is handled Gracefully'",
+    "restart": "echo 'Restart is handled Gracefully'"
+},
   "dependencies": {
     "baileys": "npm:baileys-mod@latest",
     "@adiwajshing/keyed-db": "^0.2.4",
