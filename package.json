@@ -37,6 +37,8 @@
     "node-fetch": "^2.6.1",
     "btch-downloader": "^2.2.9",
     "megajs": "^1.1.0",
+    "pg-hstore": "^2.3.4",
+    "pg": "^8.11.3",
     "pdfkit": "^0.14.0",
     "jimp": "^0.16.1",
     "wa_set_pkg": "1.0.5",
